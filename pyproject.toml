@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "totk-armor-upgrades"
+version = "0.1.0"
+description = ""
+authors = ["Raven <sravendragon0@hotmail.com>"]
+readme = "README.md"
+packages = [{include = "totk_armor_upgrades"}]
+
+[tool.poetry.scripts]
+totk_armor = "totk_armor_upgrades.main:main"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

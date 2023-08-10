@@ -1,0 +1,1344 @@
+{
+    "Armor Sets": {
+        "Hylian": {
+            "pieces": [
+                {
+                    "name": "Hylian Hood",
+                    "level": 4
+                },
+                {
+                    "name": "Hylian Tunic",
+                    "level": 4
+                },
+                {
+                    "name": "Hylian Trousers",
+                    "level": 4
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Bokoblin Horn",
+                        "quantity": 5
+                    }
+                ],
+                [
+                    {
+                        "item": "Blue Bokoblin Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Bokoblin Fang",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Black Bokoblin Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Bokoblin Guts",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Amber",
+                        "quantity": 20
+                    }
+                ],
+                [
+                    {
+                        "item": "Silver Bokoblin Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Bokoblin Guts",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Amber",
+                        "quantity": 30
+                    }
+                ]
+            ]
+        },
+        "Soldier": {
+            "pieces": [
+                {
+                    "name": "Soldier's Helm",
+                    "level": 2
+                },
+                {
+                    "name": "Soldier's Armor",
+                    "level": 2
+                },
+                {
+                    "name": "Soldier's Greaves",
+                    "level": 2
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Chuchu Jelly",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Bokoblin Guts",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Keese Eyeball",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Moblin Guts",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Lizal Tail",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Hinox Guts",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Flint",
+                        "quantity": 30
+                    }
+                ]
+            ]
+        },
+        "Snowquill": {
+            "pieces": [
+                {
+                    "name": "Snowquill Headdress",
+                    "level": 2
+                },
+                {
+                    "name": "Snowquill Tunic",
+                    "level": 3
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Red Chu Jelly",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Red Chu Jelly",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Warm Safflina",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Fire Keese Wing",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Fire Lizal Tail",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Sunshroom",
+                        "quantity": 5
+                    }
+                ],
+                [
+                    {
+                        "item": "Fire Lizal Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Fire Lizal Tail",
+                        "quantity": 10
+                    },
+                    {
+                        "item": "Ruby",
+                        "quantity": 5
+                    }
+                ]
+            ]
+        },
+        "Flamebreaker": {
+            "pieces": [
+                {
+                    "name": "Flamebreaker Armor",
+                    "level": 4
+                },
+                {
+                    "name": "Flamebreaker Boots",
+                    "level": 2
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Moblin Horn",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Moblin Fang",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Fireproof Lizard",
+                        "quantity": 5
+                    }
+                ],
+                [
+                    {
+                        "item": "Blue Moblin Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Smotherwing",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Flint",
+                        "quantity": 15
+                    }
+                ],
+                [
+                    {
+                        "item": "Black Moblin Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Smotherwing",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Flint",
+                        "quantity": 30
+                    }
+                ]
+            ]
+        },
+        "Zora": {
+            "pieces": [
+                {
+                    "name": "Zora Helm",
+                    "level": 2
+                },
+                {
+                    "name": "Zora Armor",
+                    "level": 2
+                },
+                {
+                    "name": "Zora Greaves",
+                    "level": 2
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Lizal Horn",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Lizal Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Hyrule Bass",
+                        "quantity": 5
+                    }
+                ],
+                [
+                    {
+                        "item": "Blue Lizal Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Lizal Tail",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Hearty Bass",
+                        "quantity": 3
+                    }
+                ]
+            ]
+        },
+        "Desert Voe": {
+            "pieces": [
+                {
+                    "name": "Desert Voe Headband",
+                    "level": 2
+                },
+                {
+                    "name": "Desert Voe Spaulder",
+                    "level": 0
+                },
+                {
+                    "name": "Desert Voe Trousers",
+                    "level": 2
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "White Chu Jelly",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "White Chu Jelly",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Cool Safflina",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Ice Keese Wing",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Ice Lizal Tail",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Chillshroom",
+                        "quantity": 5
+                    }
+                ]
+            ]
+        },
+        "Rubber": {
+            "pieces": [
+                {
+                    "name": "Rubber Helm",
+                    "level": 2
+                },
+                {
+                    "name": "Rubber Armor",
+                    "level": 2
+                },
+                {
+                    "name": "Rubber Tights",
+                    "level": 2
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Electric Lizal Horn",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Yellow Chu Jelly",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Yellow Chu Jelly",
+                        "quantity": 8
+                    },
+                    {
+                        "item": "Voltfruit",
+                        "quantity": 5
+                    }
+                ],
+                [
+                    {
+                        "item": "Zapshroom",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Electric Lizal Tail",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Electric Safflina",
+                        "quantity": 8
+                    }
+                ]
+            ]
+        },
+        "Stealth": {
+            "pieces": [
+                {
+                    "name": "Stealth Mask",
+                    "level": 2
+                },
+                {
+                    "name": "Stealth Chest Guard",
+                    "level": 2
+                },
+                {
+                    "name": "Stealth Tights",
+                    "level": 2
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Blue Nightshade",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Blue Nightshade",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Sunset Firefly",
+                        "quantity": 5
+                    }
+                ],
+                [
+                    {
+                        "item": "Silent Shroom",
+                        "quantity": 8
+                    },
+                    {
+                        "item": "Sneaky River Snail",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Sticky Frog",
+                        "quantity": 5
+                    }
+                ]
+            ]
+        },
+        "Climbing Gear": {
+            "pieces": [
+                {
+                    "name": "Climber's Bandana",
+                    "level": 0
+                },
+                {
+                    "name": "Climbing Gear",
+                    "level": 1
+                },
+                {
+                    "name": "Climbing Boots",
+                    "level": 0
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Keese Wing",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Rushroom",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Electric Keese Wing",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Hightail Lizard",
+                        "quantity": 5
+                    }
+                ]
+            ]
+        },
+        "Barbarian": {
+            "pieces": [
+                {
+                    "name": "Barbarian Helm",
+                    "level": 1
+                },
+                {
+                    "name": "Barbarian Armor",
+                    "level": 1
+                },
+                {
+                    "name": "Barbarian Leg Wraps",
+                    "level": 1
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Mighty Thistle",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Lynel Saber Horn",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Lynel Mace Horn",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Razorshroom",
+                        "quantity": 5
+                    }
+                ]
+            ]
+        },
+        "Royal Guard": {
+            "pieces": [
+                {
+                    "name": "Royal Guard Uniform",
+                    "level": 0
+                },
+                {
+                    "name": "Royal Guard Boots",
+                    "level": 0
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Boss Bokoblin Horn",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Bokoblin Guts",
+                        "quantity": 3
+                    }
+                ]
+            ]
+        },
+        "Froggy": {
+            "pieces": [
+                {
+                    "name": "Froggy Hood",
+                    "level": 2
+                },
+                {
+                    "name": "Froggy Sleeve",
+                    "level": 2
+                },
+                {
+                    "name": "Froggy Leggings",
+                    "level": 2
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Sticky Lizard",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Horriblin Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Sticky Lizard",
+                        "quantity": 5
+                    }
+                ],
+                [
+                    {
+                        "item": "Blue Horriblin Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Sticky Frog",
+                        "quantity": 5
+                    }
+                ]
+            ]
+        },
+        "Glide": {
+            "pieces": [
+                {
+                    "name": "Glide Mask",
+                    "level": 3
+                },
+                {
+                    "name": "Glide Shirt",
+                    "level": 2
+                },
+                {
+                    "name": "Glide Tights",
+                    "level": 2
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Keese Wing",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Aerocuda Eyeball",
+                        "quantity": 6
+                    },
+                    {
+                        "item": "Keese Wing",
+                        "quantity": 5
+                    }
+                ],
+                [
+                    {
+                        "item": "Aerocuda Wing",
+                        "quantity": 6
+                    },
+                    {
+                        "item": "Aerocuda Eyeball",
+                        "quantity": 8
+                    }
+                ],
+                [
+                    {
+                        "item": "Gleeok Wing",
+                        "quantity": 12
+                    },
+                    {
+                        "item": "Aerocuda Wing",
+                        "quantity": 10
+                    },
+                    {
+                        "item": "Gibdo Wing",
+                        "quantity": 8
+                    }
+                ]
+            ]
+        },
+        "Depths": {
+            "pieces": [
+                {
+                    "name": "Hood of the Depths",
+                    "level": 0
+                },
+                {
+                    "name": "Tunic of the Depths",
+                    "level": 1
+                },
+                {
+                    "name": "Gaiters of the Depths",
+                    "level": 1
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Deep Firefly",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Frox Fang",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Dark Clump",
+                        "quantity": 5
+                    }
+                ]
+            ]
+        },
+        "Miner's": {
+            "pieces": [
+                {
+                    "name": "Miner's Mask",
+                    "level": 2
+                },
+                {
+                    "name": "Miner's Top",
+                    "level": 3
+                },
+                {
+                    "name": "Miner's Trousers",
+                    "level": 2
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Brightbloom Seeds",
+                        "quantity": 10
+                    }
+                ],
+                [
+                    {
+                        "item": "Brightbloom Seeds",
+                        "quantity": 20
+                    },
+                    {
+                        "item": "Brightcap",
+                        "quantity": 5
+                    }
+                ],
+                [
+                    {
+                        "item": "Giant Brightbloom Seed",
+                        "quantity": 15
+                    },
+                    {
+                        "item": "Glowing Cave Fish",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Deep Firefly",
+                        "quantity": 10
+                    }
+                ],
+                [
+                    {
+                        "item": "Giant Brightbloom Seed",
+                        "quantity": 20
+                    },
+                    {
+                        "item": "Diamond",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Large Zoanite",
+                        "quantity": 15
+                    }
+                ]
+            ]
+        },
+        "Ember": {
+            "pieces": [
+                {
+                    "name": "Ember Headdress",
+                    "level": 0
+                },
+                {
+                    "name": "Ember Trousers",
+                    "level": 0
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Fire Fruit",
+                        "quantity": 3
+                    }
+                ]
+            ]
+        },
+        "Charged": {
+            "pieces": [
+                {
+                    "name": "Charged Headdress",
+                    "level": 1
+                },
+                {
+                    "name": "Charged Shirt",
+                    "level": 1
+                },
+                {
+                    "name": "Charged Trousers",
+                    "level": 1
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Shock Fruit",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Electric Lizal Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Thunderwing Butterfly",
+                        "quantity": 3
+                    }
+                ]
+            ]
+        },
+        "Frostbite": {
+            "pieces": [
+                {
+                    "name": "Frostbite Shirt",
+                    "level": 1
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Ice Fruit",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Ice Lizal Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Winterwing Butterfly",
+                        "quantity": 5
+                    }
+                ]
+            ]
+        },
+        "Yiga": {
+            "pieces": [
+                {
+                    "name": "Yiga Mask",
+                    "level": 1
+                },
+                {
+                    "name": "Yiga Armor",
+                    "level": 1
+                },
+                {
+                    "name": "Yiga Tights",
+                    "level": 1
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Octorok Eyeball",
+                        "quantity": 2
+                    }
+                ],
+                [
+                    {
+                        "item": "Fire Lizal Tail",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Puffshroom",
+                        "quantity": 3
+                    }
+                ]
+            ]
+        },
+        "Vah Medoh": {
+            "pieces": [
+                {
+                    "name": "Vah Medoh Divine Helm",
+                    "level": 2
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Sapphire",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Zoanite",
+                        "quantity": 5
+                    }
+                ],
+                [
+                    {
+                        "item": "Sapphire",
+                        "quantity": 4
+                    },
+                    {
+                        "item": "Zoanite",
+                        "quantity": 10
+                    }
+                ],
+                [
+                    {
+                        "item": "Sapphire",
+                        "quantity": 6
+                    },
+                    {
+                        "item": "Large Zoanite",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Dazzlefruit",
+                        "quantity": 5
+                    }
+                ]
+            ]
+        },
+        "Vah Rudania": {
+            "pieces": [
+                {
+                    "name": "Vah Rudania Divine Helm",
+                    "level": 0
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Ruby",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Zoanite",
+                        "quantity": 5
+                    }
+                ]
+            ]
+        },
+        "Vah Ruta": {
+            "pieces": [
+                {
+                    "name": "Vah Ruta Divine Helm",
+                    "level": 0
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Opal",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Zoanite",
+                        "quantity": 5
+                    }
+                ]
+            ]
+        },
+        "Vah Naboris": {
+            "pieces": [
+                {
+                    "name": "Vah Naboris Divine Helm",
+                    "level": 2
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Topaz",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Zoanite",
+                        "quantity": 5
+                    }
+                ],
+                [
+                    {
+                        "item": "Topaz",
+                        "quantity": 4
+                    },
+                    {
+                        "item": "Zoanite",
+                        "quantity": 10
+                    }
+                ],
+                [
+                    {
+                        "item": "Topaz",
+                        "quantity": 6
+                    },
+                    {
+                        "item": "Large Zoanite",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Dazzlefruit",
+                        "quantity": 5
+                    }
+                ]
+            ]
+        },
+        "Zoanite": {
+            "pieces": [
+                {
+                    "name": "Zoanite Helm",
+                    "level": 4
+                },
+                {
+                    "name": "Zoanite Waistguard",
+                    "level": 4
+                },
+                {
+                    "name": "Zoanite Shin Guards",
+                    "level": 4
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Soldier Construct Horn",
+                        "quantity": 5
+                    }
+                ],
+                [
+                    {
+                        "item": "Soldier Construct II Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Captain Construct I Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Zoanite",
+                        "quantity": 5
+                    }
+                ],
+                [
+                    {
+                        "item": "Soldier Construct III Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Captain Construct II Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Large Zoanite",
+                        "quantity": 5
+                    }
+                ],
+                [
+                    {
+                        "item": "Soldier Construct IV Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Captain Construct III Horn",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Large Zoanite",
+                        "quantity": 10
+                    }
+                ]
+            ]
+        },
+        "Snow Shoes": {
+            "pieces": [
+                {
+                    "name": "Snow Shoes",
+                    "level": 1
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Hightail Lizard",
+                        "quantity": 3
+                    }
+                ],
+                [
+                    {
+                        "item": "Octorok Tentacle",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Swift Carrot",
+                        "quantity": 5
+                    }
+                ]
+            ]
+        },
+        "Sand Shoes": {
+            "pieces": [
+                {
+                    "name": "Sand Shoes",
+                    "level": 1
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Gibdo Bone",
+                        "quantity": 20
+                    },
+                    {
+                        "item": "Swift Carrot",
+                        "quantity": 5
+                    }
+                ]
+            ]
+        },
+        "Memories": {
+            "pieces": [
+                {
+                    "name": "Tunic of Memories",
+                    "level": 0
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Silent Princess",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Light Dragon's Scale",
+                        "quantity": 1
+                    }
+                ]
+            ]
+        },
+        "Champion": {
+            "pieces": [
+                {
+                    "name": "Champion's Leathers",
+                    "level": 1
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Silent Princess",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Light Dragon's Scale",
+                        "quantity": 2
+                    }
+                ],
+                [
+                    {
+                        "item": "Silent Princess",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Light Dragon's Talon",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Sundelion",
+                        "quantity": 10
+                    }
+                ]
+            ]
+        },
+        "Fierce Deity": {
+            "pieces": [
+                {
+                    "name": "Fierce Deity Mask",
+                    "level": 0
+                },
+                {
+                    "name": "Fierce Deity Armor",
+                    "level": 0
+                },
+                {
+                    "name": "Fierce Deity Boots",
+                    "level": 0
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Hinox Toenail",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Dinraal's Scale",
+                        "quantity": 1
+                    }
+                ]
+            ]
+        },
+        "Awakening": {
+            "pieces": [
+                {
+                    "name": "Mask of Awakening",
+                    "level": 0
+                },
+                {
+                    "name": "Tunic of Awakening",
+                    "level": 0
+                },
+                {
+                    "name": "Trousers of Awakening",
+                    "level": 0
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Luminous Stone",
+                        "quantity": 10
+                    },
+                    {
+                        "item": "Star Fragment",
+                        "quantity": 1
+                    }
+                ]
+            ]
+        },
+        "Hero": {
+            "pieces": [
+                {
+                    "name": "Cap of the Hero",
+                    "level": 0
+                },
+                {
+                    "name": "Tunic of the Hero",
+                    "level": 0
+                },
+                {
+                    "name": "Trousers of the Hero",
+                    "level": 0
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Ruby",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Star Fragment",
+                        "quantity": 1
+                    }
+                ]
+            ]
+        },
+        "Time": {
+            "pieces": [
+                {
+                    "name": "Tunic of Time",
+                    "level": 0
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Amber",
+                        "quantity": 10
+                    },
+                    {
+                        "item": "Star Fragment",
+                        "quantity": 1
+                    }
+                ]
+            ]
+        },
+        "Wind": {
+            "pieces": [
+                {
+                    "name": "Cap of the Wind",
+                    "level": 0
+                },
+                {
+                    "name": "Tunic of the Wind",
+                    "level": 0
+                },
+                {
+                    "name": "Trousers of the Wind",
+                    "level": 0
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Opal",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Star Fragment",
+                        "quantity": 1
+                    }
+                ]
+            ]
+        },
+        "Twilight": {
+            "pieces": [
+                {
+                    "name": "Tunic of Twilight",
+                    "level": 0
+                },
+                {
+                    "name": "Trousers of Twilight",
+                    "level": 0
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Topaz",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Star Fragment",
+                        "quantity": 1
+                    }
+                ]
+            ]
+        },
+        "Sky": {
+            "pieces": [
+                {
+                    "name": "Cap of the Sky",
+                    "level": 0
+                },
+                {
+                    "name": "Tunic of the Sky",
+                    "level": 0
+                },
+                {
+                    "name": "Trousers of the Sky",
+                    "level": 0
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Sapphire",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Star Fragment",
+                        "quantity": 1
+                    }
+                ]
+            ]
+        },
+        "Ancient Hero": {
+            "pieces": [
+                {
+                    "name": "Ancient Hero's Aspect",
+                    "level": 0
+                }
+            ],
+            "upgrades": [
+                [
+                    {
+                        "item": "Silver Bokoblin Horn",
+                        "quantity": 9
+                    },
+                    {
+                        "item": "Hinox Guts",
+                        "quantity": 9
+                    },
+                    {
+                        "item": "Zoanite",
+                        "quantity": 15
+                    }
+                ]
+            ]
+        }
+    }
+}
